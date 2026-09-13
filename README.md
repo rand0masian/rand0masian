@@ -21,15 +21,21 @@ I'm an avid explorer when development is involved, I will gladly indulge in anyt
 
 <h1 align="left"> 💻 Tech Stack: </h1>
 <p align="left">
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix" />
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 <br>
 
 <h1 align="left"> 📊 GitHub Stats: </h1>
 <p align="left">
-![](https://github-readme-stats.shion.dev/api?username=rand0masian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rand0masian&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rand0masian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rand0masian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+    <br>
+<img src="https://streak-stats.demolab.com/?user=rand0masian&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
+    <br>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rand0masian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <br>
 
