@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 Elloooo! I'm rand0masian <3 I'm a programmer who also happens to be a nix enthusiast ₍^. .^₎⟆ <br>
-I'm an avid explorer when development is involved, I will gladly indulge in anything regarding that nature :)
+I'm an avid explorer when development is involved, I will gladly indulge in anything regarding that nature >w<
 </p>
 <h1> </h1>
 <br>
